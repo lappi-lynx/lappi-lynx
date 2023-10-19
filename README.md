@@ -1,5 +1,5 @@
 <h1 align="left">Stanislav Kniazev 🏍🚴‍♂️🏕 🎸</h1>
-<h3 align="left">Cyclist, rider, engineer.</h3>
+<h3 align="left">Engineer 🧐, cyclist 🚴‍♂️, rider 🏍.</h3>
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extazystas&layout=compact" alt="extazystas" /></p>
 <p>
 
