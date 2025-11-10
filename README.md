@@ -1,9 +1,8 @@
 <h1 align="left">Stanislav Kniazev 🏍🚴‍♂️🏕 🎸</h1>
-<h3 align="left">Engineer 🧐, cyclist 🚴‍♂️, rider 🏍.</h3>
+<h3 align="left">Engineer 🧐, AI enthusiast, cyclist 🚴‍♂️, rider 🏍.</h3>
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lappi-lynx&layout=compact" alt="lappi-lynx" /></p>
 <p>
 
-- 🔭 Currently looking for **new challenges and proposals;**
 
 - 📫 Reach me on <a href="https://linkedin.com/in/stanislav-knyazev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stanislav-knyazev" height="30" width="40" /></a>;
 </p>
